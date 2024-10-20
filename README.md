@@ -1,8 +1,7 @@
 <div id="header" align="center">
  <img src="https://i.ibb.co/QCNqcxK/image.png" width="300">
 </div>
-Hi, I’m Yarik21YT!
-I'm very stupid. 
+
 
 <div id="header" align="center">
  <img src="http://yarik21yt.serv00.net/чай_крутится.gif" width="300">
