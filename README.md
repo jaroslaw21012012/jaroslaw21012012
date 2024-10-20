@@ -4,7 +4,10 @@
 Hi, I’m Yarik21YT!
 I'm very stupid. 
 
- :)
+<div id="header" align="center">
+ <img src="http://yarik21yt.serv0.net/чай_крутится.gif" width="300">
+</div>
+
  <div align="center" style="display: flex; align-items: center;">
   <h3>:hammer_and_wrench: Languages that I want to learn or learning!</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
