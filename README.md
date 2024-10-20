@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://i.ibb.co/LxZDdZ3/image.png" width="300">
+ <img src="https://i.ibb.co/QCNqcxK/image.png" width="300">
 </div>
 Hi, I’m Yarik21YT!
 I'm very stupid. 
