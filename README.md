@@ -5,7 +5,7 @@ Hi, I’m Yarik21YT!
 I'm very stupid. 
 
 <div id="header" align="center">
- <img src="http://yarik21yt.serv0.net/чай_крутится.gif" width="300">
+ <img src="http://yarik21yt.serv00.net/чай_крутится.gif" width="300">
 </div>
 
  <div align="center" style="display: flex; align-items: center;">
